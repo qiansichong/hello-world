@@ -1,2 +1,3 @@
 # hello-world
-it's myfirst GitHub programmer
+it's my first GitHub programmer
+but we can do some more
